@@ -1,6 +1,6 @@
 # OpenBikeSensor Logo
 This logo was created by Lukas Betzler as a contribution to the OpenBikeSensor project. It originated out of the cycling initiative Zweirat Stuttgart in Germany.
-The logo is quite solid, but don't stretch it (since it is already stretched). Feel free to give it any color you want. There are some files provided that might fit the regular needs. In case you need any other file please rework it, but keep the appearance as close as possible to the original. 
+The logo is quite solid, but don't stretch it (since it is already stretched by design). Feel free to give it any color you want. There are some files provided that might fit the regular needs. In case you need any other file please rework it, but keep the appearance as close as possible to the original. 
 The concept of the logo is based on the idea of the OpenBikeSensor as a tool for measuring distances between a cyclist and an overtaking motorist. The font is the DIN2014, a redesigned version of the typeface used in german road signage. In the Logo the gylphs are stretched like one might know it from the signage painted directly on the tarmac, e.g. the bus or taxi lanes. The three words, arranged in lanes, are put into a square as a reference to the boxy appearance of the sensor it self. The space that remains in this tight situation is filled up by the lines that mark the distance. 
 Have fun using it! 
 ## License
